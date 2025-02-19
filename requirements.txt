@@ -15,11 +15,6 @@ fonttools==4.56.0
 idna==3.10
 joblib==1.4.2
 Kivy==2.3.1
-Kivy-Garden
-kivy_deps.angle
-kivy_deps.glew
-kivy_deps.sdl2
-kiwisolver==1.4.8
 lxml==5.3.1
 matplotlib==3.10.0
 multiprocess==0.70.17
